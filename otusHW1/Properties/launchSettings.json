@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "otusHW1": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

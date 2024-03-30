@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testotusDelegatw/1.0.0": {
+        "runtime": {
+          "testotusDelegatw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testotusDelegatw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+D:\leetcode\OtusHW3\bin\Debug\net8.0\OtusHW3.exe
+D:\leetcode\OtusHW3\bin\Debug\net8.0\OtusHW3.deps.json
+D:\leetcode\OtusHW3\bin\Debug\net8.0\OtusHW3.runtimeconfig.json
+D:\leetcode\OtusHW3\bin\Debug\net8.0\OtusHW3.dll
+D:\leetcode\OtusHW3\bin\Debug\net8.0\OtusHW3.pdb
+D:\leetcode\OtusHW3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.csproj.AssemblyReference.cache
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.AssemblyInfoInputs.cache
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.AssemblyInfo.cs
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.csproj.CoreCompileInputs.cache
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.csproj.CopyComplete
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.dll
+D:\leetcode\OtusHW3\obj\Debug\net8.0\refint\OtusHW3.dll
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.pdb
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.genruntimeconfig.cache
+D:\leetcode\OtusHW3\obj\Debug\net8.0\ref\OtusHW3.dll

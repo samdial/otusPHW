@@ -1,0 +1,14 @@
+D:\leetcode\testotusDelegatw\bin\Debug\net8.0\testotusDelegatw.exe
+D:\leetcode\testotusDelegatw\bin\Debug\net8.0\testotusDelegatw.deps.json
+D:\leetcode\testotusDelegatw\bin\Debug\net8.0\testotusDelegatw.runtimeconfig.json
+D:\leetcode\testotusDelegatw\bin\Debug\net8.0\testotusDelegatw.dll
+D:\leetcode\testotusDelegatw\bin\Debug\net8.0\testotusDelegatw.pdb
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.GeneratedMSBuildEditorConfig.editorconfig
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.AssemblyInfoInputs.cache
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.AssemblyInfo.cs
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.csproj.CoreCompileInputs.cache
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.dll
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\refint\testotusDelegatw.dll
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.pdb
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.genruntimeconfig.cache
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\ref\testotusDelegatw.dll

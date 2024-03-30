@@ -1,0 +1,14 @@
+D:\leetcode\Otushw5\bin\Debug\net8.0\Otushw5.exe
+D:\leetcode\Otushw5\bin\Debug\net8.0\Otushw5.deps.json
+D:\leetcode\Otushw5\bin\Debug\net8.0\Otushw5.runtimeconfig.json
+D:\leetcode\Otushw5\bin\Debug\net8.0\Otushw5.dll
+D:\leetcode\Otushw5\bin\Debug\net8.0\Otushw5.pdb
+D:\leetcode\Otushw5\obj\Debug\net8.0\Otushw5.GeneratedMSBuildEditorConfig.editorconfig
+D:\leetcode\Otushw5\obj\Debug\net8.0\Otushw5.AssemblyInfoInputs.cache
+D:\leetcode\Otushw5\obj\Debug\net8.0\Otushw5.AssemblyInfo.cs
+D:\leetcode\Otushw5\obj\Debug\net8.0\Otushw5.csproj.CoreCompileInputs.cache
+D:\leetcode\Otushw5\obj\Debug\net8.0\Otushw5.dll
+D:\leetcode\Otushw5\obj\Debug\net8.0\refint\Otushw5.dll
+D:\leetcode\Otushw5\obj\Debug\net8.0\Otushw5.pdb
+D:\leetcode\Otushw5\obj\Debug\net8.0\Otushw5.genruntimeconfig.cache
+D:\leetcode\Otushw5\obj\Debug\net8.0\ref\Otushw5.dll

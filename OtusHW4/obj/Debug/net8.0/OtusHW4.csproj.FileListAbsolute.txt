@@ -1,0 +1,14 @@
+D:\leetcode\OtusHW4\bin\Debug\net8.0\OtusHW4.exe
+D:\leetcode\OtusHW4\bin\Debug\net8.0\OtusHW4.deps.json
+D:\leetcode\OtusHW4\bin\Debug\net8.0\OtusHW4.runtimeconfig.json
+D:\leetcode\OtusHW4\bin\Debug\net8.0\OtusHW4.dll
+D:\leetcode\OtusHW4\bin\Debug\net8.0\OtusHW4.pdb
+D:\leetcode\OtusHW4\obj\Debug\net8.0\OtusHW4.GeneratedMSBuildEditorConfig.editorconfig
+D:\leetcode\OtusHW4\obj\Debug\net8.0\OtusHW4.AssemblyInfoInputs.cache
+D:\leetcode\OtusHW4\obj\Debug\net8.0\OtusHW4.AssemblyInfo.cs
+D:\leetcode\OtusHW4\obj\Debug\net8.0\OtusHW4.csproj.CoreCompileInputs.cache
+D:\leetcode\OtusHW4\obj\Debug\net8.0\OtusHW4.dll
+D:\leetcode\OtusHW4\obj\Debug\net8.0\refint\OtusHW4.dll
+D:\leetcode\OtusHW4\obj\Debug\net8.0\OtusHW4.pdb
+D:\leetcode\OtusHW4\obj\Debug\net8.0\OtusHW4.genruntimeconfig.cache
+D:\leetcode\OtusHW4\obj\Debug\net8.0\ref\OtusHW4.dll
