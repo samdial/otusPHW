@@ -15,3 +15,4 @@ D:\leetcode\OtusHW3\obj\Debug\net8.0\refint\OtusHW3.dll
 D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.pdb
 D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.genruntimeconfig.cache
 D:\leetcode\OtusHW3\obj\Debug\net8.0\ref\OtusHW3.dll
+D:\leetcode\OtusHW3\obj\Debug\net8.0\OtusHW3.sourcelink.json

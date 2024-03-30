@@ -12,3 +12,4 @@ D:\leetcode\testotusDelegatw\obj\Debug\net8.0\refint\testotusDelegatw.dll
 D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.pdb
 D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.genruntimeconfig.cache
 D:\leetcode\testotusDelegatw\obj\Debug\net8.0\ref\testotusDelegatw.dll
+D:\leetcode\testotusDelegatw\obj\Debug\net8.0\testotusDelegatw.sourcelink.json

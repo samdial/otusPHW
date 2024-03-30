@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtusHW3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ea5efac1c649349b8e61839a80b67602bb74054")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtusHW3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtusHW3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
